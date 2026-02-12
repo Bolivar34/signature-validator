@@ -34,7 +34,7 @@
     "viem": ">=2"
   },
   "dependencies": {
-    "ethers": "^5.6.5",
+    "ethers": "^6.16.0",
     "tap-spec": "^5.0.0",
     "tape": "^5.5.3"
   },
